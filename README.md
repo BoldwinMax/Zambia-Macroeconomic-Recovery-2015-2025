@@ -24,7 +24,7 @@ A Power BI analytical report examining whether Zambia's post-2020 economic recov
 ![Overview page](screenshots/02_Overview.png)
 
 ### Copper Triggered the Recovery
-![Copper page](screenshots/03_Copper%20triggered%20the%20recove.png)
+![Copper page](screenshots/03_Copper%20triggered%20the%20recovery.png)
 
 ### The Deal Sustained It
 ![Deal page](screenshots/04_Deal%20sustsained%20it.png)
