@@ -41,8 +41,10 @@ A Power BI analytical report examining whether Zambia's post-2020 economic recov
 - Current account swung from -3.6% to +11.9% of GDP, 2015 → 2021
 - Mineral rents jumped from 3% to ~28% of GDP during the supercycle
 - PPG debt service collapsed from 12.5% to 3% of exports, 2019 → 2023
-- Total debt service rebounded above 30% of exports in 2024 — commercial debt the deal didn't touch
-- Recovery is real but fragile: four named risks could derail it
+- Eurobond restructuring completed June 2024 ($3B restructured, $840M forgiven)
+- By Q1 2026, inflation back in BoZ's 6-8% target band (7.1% in March)
+- BoZ has cut its policy rate three consecutive times to 13.25%
+- Forward-looking risks remain: residual commercial debt, climate, copper volatility, IMF renewal
 
 ## Data sources
 
