@@ -53,9 +53,9 @@ A Power BI analytical report examining whether Zambia's post-2020 economic recov
 - World Bank Open Data
 - International Monetary Fund (IMF)
 ## Documents
-   
-   - **[Power BI Report](Zambia-Recovery-Analysis-2015-2025.pbix)** — full interactive analysis
-   - **[Executive Summary (Pdf)](Zambia-Recovery-Executive-Summary.Pdf)** — 3-page printable overview
+
+- **[Power BI Report](Zambia-Recovery-Analysis-2015-2025.pbix)** — full interactive analysis (requires Power BI Desktop)
+- **[Executive Summary (PDF)](Zambia-Recovery-Executive-Summary.pdf)** — 3-page printable narrative
 ## How to open
 
 Requires Power BI Desktop (free download from Microsoft). Open the `.pbix` file and click the page tabs at the bottom to navigate.
