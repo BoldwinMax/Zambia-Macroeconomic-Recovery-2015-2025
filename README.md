@@ -55,7 +55,7 @@ A Power BI analytical report examining whether Zambia's post-2020 economic recov
 ## Documents
    
    - **[Power BI Report](Zambia-Recovery-Analysis-2015-2025.pbix)** — full interactive analysis
-   - **[Executive Summary (Word)](Zambia-Recovery-Executive-Summary.docx)** — 3-page printable overview
+   - **[Executive Summary (Pdf)](Zambia-Recovery-Executive-Summary.Pdf)** — 3-page printable overview
 ## How to open
 
 Requires Power BI Desktop (free download from Microsoft). Open the `.pbix` file and click the page tabs at the bottom to navigate.
